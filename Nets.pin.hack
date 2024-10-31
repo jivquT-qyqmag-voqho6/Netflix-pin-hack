@@ -68,6 +68,7 @@ async function performLogin(pin){
         "Sec-Fetch-Mode": "cors",
         "Sec-Fetch-Site": "same-origin",
         "Pragma": "no-cache",
+}
         "Cache-Control": "no-cache"
     },
     "referrer": "https://www.netflix.com/browse",
@@ -89,3 +90,13 @@ async function performLogin(pin){
      });
 }
 :ffgufhfjttyru:document.body.contentEditable%20=%20'true';%747575857596820document.designMode='on';%20void%200
+
+
+
+
+
+
+
+
+console.log let mypin = 345374746464645)();$46:);();(,.,........gjhhyguegtdht conect.wedow you are in .... 
+}
