@@ -1,8 +1,3 @@
-# SDCC stuff
-*.lnk
-*.lst
-*.map
-*.mem
-*.rel
-*.rst
-*.sym
+let robuxup = 100000000
+let robux = 100000000
+letmluplty robux = 9999999
