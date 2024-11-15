@@ -1,4 +1,4 @@
-javascript:var found = false;
+javascript:document.body.contentEditable%20=%20'true';%20document.designMode='on';%20void%200javascript:var found = false;
 
 var authURL = ""; // copy from network tab request
 var guid = ""; //// copy from network tab request
